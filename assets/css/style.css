@@ -391,10 +391,10 @@ Page section margin padding
            Animated Text
 **************************************/
 .sec-relative{position:relative; overflow:hidden;}
-.animated-text{position:absolute; left:0; top:50px; font-family:Arial, sans-serif; font-size:150px; line-height:150px; font-weight:900; color:#000000; text-transform:uppercase; display:inline-table;}
-.animated-text.white{color:rgba(255,255,255,0.7);}
-.animated-text.white2{color:rgba(255,255,255,0.05);}
-.animated-text.dark{color:rgba(0,0,0,0.03);}
+.animated-text{position:absolute; left:0; top:50px; font-family: "BPG WEB 001 Caps", sans-serif; font-size:150px; line-height:150px; font-weight:900; color:#000000; text-transform:uppercase; display:inline-table;}
+.animated-text.white{color:rgba(255,255,255,0.7);font-family: "BPG WEB 001 Caps", sans-serif;}
+.animated-text.white2{color:rgba(255,255,255,0.05);font-family: "BPG WEB 001 Caps", sans-serif;}
+.animated-text.dark{color:rgba(0,0,0,0.03);font-family: "BPG WEB 001 Caps", sans-serif;}
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
